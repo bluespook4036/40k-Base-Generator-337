@@ -29,9 +29,9 @@ The Rock Generator - "RockGenerator" in the modifiers tab.
 8. Rotation - allows you to rotate and view a rock from different angles.
 
    HOW TO MAKE A NEW BASE
-   Select the original base and Duplicate (Shift + D) or create a new object and assign the basemaker geonodes in the object's modifier tab.
+- Select the original base and Duplicate (Shift + D) or create a new object and assign the basemaker geonodes in the object's modifier tab.
 
    HOW TO MAKE A NEW ROCK
-   Add any object, and add the rock generator geonodes to the object in the modifier tab. Alternatively, select an existing rock and Duplicate (Shift + D) to tweak the parameters on a new object.
+- Add any object, and add the rock generator geonodes to the object in the modifier tab. Alternatively, select an existing rock and Duplicate (Shift + D) to tweak the parameters on a new object.
 
    Thank you for reading, enjoy the tool!
